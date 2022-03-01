@@ -1,11 +1,11 @@
 [build]
-  command: npm run build
-  commandOrigin: config
-  environment:
+  command= npm run build
+  commandOrigin= config
+  environment=
     - NEXT_PRIVATE_TARGET
-  publish: /opt/build/repo/.next
-  publishOrigin: config
-plugins:
-  - inputs: {}
-    origin: ui
-    package: '@netlify/plugin-nextjs'
+  publish= /opt/build/repo/.next
+  publishOrigin= config
+plugins=
+  - inputs= {}
+    origin= ui
+    package= '@netlify/plugin-nextjs'
