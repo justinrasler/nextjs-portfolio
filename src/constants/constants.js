@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'KADOFIGHT',
     description:"This is a card game where you can create, update, and delete your user cards and battle other members' cards.",
-    image: '/images/2.png',
+    image: 'https://user-images.githubusercontent.com/23408915/144143014-cf9c7009-82fc-4f2a-b89c-5f1518c44d73.png',
     tags: ['React','Node' ,'JavaScript'],
     source: 'https://github.com/justinrasler/Assemble-them-all-FE',
     visit: 'https://inspiring-bhaskara-b8c56a.netlify.app/',
