@@ -24,7 +24,7 @@ export const projects = [
     tags: ['Sanity.io','Next.js' ,'JavaScript'],
     source: 'https://github.com/justinrasler/BNB',
     visit: 'https://github.com/justinrasler/BNB',
-    id: 1,
+    id: 2,
   },
  
 ];
