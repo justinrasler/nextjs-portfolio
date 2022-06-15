@@ -17,6 +17,15 @@ export const projects = [
     visit: 'https://inspiring-bhaskara-b8c56a.netlify.app/',
     id: 1,
   },
+  {
+    title: 'NotBNB',
+    description:"A clone of airbnb using sanity.io and next.js.",
+    image: 'https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt304100c88b563ae5/5e72688401b3dc04d25c31dd/BeloRauschBG.png?crop=16:9&height=900&width=1600',
+    tags: ['Sanity.io','Next.js' ,'JavaScript'],
+    source: 'https://github.com/justinrasler/BNB',
+    visit: 'https://github.com/justinrasler/BNB',
+    id: 1,
+  },
  
 ];
 
