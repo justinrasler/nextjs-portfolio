@@ -26,6 +26,15 @@ export const projects = [
     visit: 'https://github.com/justinrasler/BNB',
     id: 2,
   },
+  {
+    title: 'Dashboard app',
+    description:"React based dashboard app to keep track of dates, employee messages, and sales data.",
+    image: 'https://user-images.githubusercontent.com/85715506/175721487-cad57e7f-baf3-495d-8d42-ce21d5de11e4.png',
+    tags: ['React.js','React hooks' ,'JavaScript'],
+    source: 'https://github.com/justinrasler/dashboard',
+    visit: 'https://github.com/justinrasler/dashboard',
+    id: 2,
+  },
  
 ];
 
