@@ -2,10 +2,12 @@
 
 ### [Live Site](https://jsmasterypro.com)
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+<img width="1636" height="819" alt="Screenshot 2025-07-17 at 12 42 55 PM" src="https://github.com/user-attachments/assets/a9f6bf71-c651-4384-9edd-98be439410ce" />
+
 
 <img width="1636" height="951" alt="Screenshot 2025-07-17 at 12 41 23 PM" src="https://github.com/user-attachments/assets/db7b3bac-8e9d-4c5b-a243-e34f89618520" />
 
+<img width="1636" height="815" alt="Screenshot 2025-07-17 at 12 43 05 PM" src="https://github.com/user-attachments/assets/955e5ec7-e843-4c92-a5f4-83a5d7796074" />
 
 
 A modern, fully responsive portfolio website built with Next.js and Tailwind CSS. Showcase your projects, technical skills, and professional journey in a visually engaging and easily customizable format.
