@@ -4,6 +4,9 @@
 
 ![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
+<img width="1636" height="951" alt="Screenshot 2025-07-17 at 12 41 23 PM" src="https://github.com/user-attachments/assets/db7b3bac-8e9d-4c5b-a243-e34f89618520" />
+
+
 
 A modern, fully responsive portfolio website built with Next.js and Tailwind CSS. Showcase your projects, technical skills, and professional journey in a visually engaging and easily customizable format.
 
